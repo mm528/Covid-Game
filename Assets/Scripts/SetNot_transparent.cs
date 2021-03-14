@@ -10,6 +10,7 @@ public class SetNot_transparent : MonoBehaviour
     {
        
        // gameObject.GetComponent<Renderer>().enabled = false;
+       //Testing Github
     }
 
     // Update is called once per frame
