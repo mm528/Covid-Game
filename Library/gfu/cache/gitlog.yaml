@@ -1,0 +1,1202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-03-24T14:25:36.567+02:00
+  initializedAtString: 2021-03-24T14:20:45.037+02:00
+  log:
+  - commitID: 0485b936d81041042f731899cdb6ae19eda99325
+    mergeA: 
+    mergeB: 
+    authorName: mm528
+    authorEmail: motisano@gmail.com
+    commitEmail: motisano@gmail.com
+    commitName: mm528
+    summary: Revert "commit"
+    description: This reverts commit 33496114f4a0a6d8349c4d8d81f51f93ffff9ced.
+    timeString: 2021-03-24T14:12:46.000+02:00
+    commitTimeString: 2021-03-24T14:12:46.000+02:00
+    changes:
+    - path: .vscode\settings.json
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\.vscode\settings.json
+      projectPath: .vscode\settings.json
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: dcdb28230aabe08b6e70ebefeb9045897f8044c9
+    mergeA: 
+    mergeB: 
+    authorName: mm528
+    authorEmail: motisano@gmail.com
+    commitEmail: motisano@gmail.com
+    commitName: mm528
+    summary: Revert "Initial commit"
+    description: This reverts commit 9b9e33217f2cf37d5753f12214a3075ef1702b58.
+    timeString: 2021-03-24T14:11:53.000+02:00
+    commitTimeString: 2021-03-24T14:11:53.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 89e4f78dcad16a529074c89943166fff94ca37d0
+    mergeA: b4f6a38d1f51c31fb1a59992e0bb8b9b2deae6c4
+    mergeB: 33496114f4a0a6d8349c4d8d81f51f93ffff9ced
+    authorName: mm528
+    authorEmail: motisano@gmail.com
+    commitEmail: motisano@gmail.com
+    commitName: mm528
+    summary: Merge branch 'Group-Project' of https://github.com/mm528/Covid-Game
+      into Group-Project
+    description: 
+    timeString: 2021-03-24T14:06:48.000+02:00
+    commitTimeString: 2021-03-24T14:06:48.000+02:00
+    changes: []
+  - commitID: b4f6a38d1f51c31fb1a59992e0bb8b9b2deae6c4
+    mergeA: 
+    mergeB: 
+    authorName: mm528
+    authorEmail: motisano@gmail.com
+    commitEmail: motisano@gmail.com
+    commitName: mm528
+    summary: commit
+    description: gfcvbcfsasdfzc
+    timeString: 2021-03-24T14:06:41.000+02:00
+    commitTimeString: 2021-03-24T14:06:41.000+02:00
+    changes:
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 33496114f4a0a6d8349c4d8d81f51f93ffff9ced
+    mergeA: 
+    mergeB: 
+    authorName: christos1996
+    authorEmail: christos_78@live.com
+    commitEmail: christos_78@live.com
+    commitName: christos1996
+    summary: commit
+    description: fdja
+    timeString: 2021-03-24T14:05:44.000+02:00
+    commitTimeString: 2021-03-24T14:05:44.000+02:00
+    changes:
+    - path: .vscode\settings.json
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\.vscode\settings.json
+      projectPath: .vscode\settings.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: cec80993f78e22ddf7330fd0068bed65cdb2b7b4
+    mergeA: 6349b08740f27fade855d265eb9912361ffb27b1
+    mergeB: d2b196325f06fa97bbb4ab0c899f506710f5f22e
+    authorName: mm528
+    authorEmail: motisano@gmail.com
+    commitEmail: motisano@gmail.com
+    commitName: mm528
+    summary: Merge branch 'Group-Project' of https://github.com/mm528/Covid-Game
+      into Group-Project
+    description: 
+    timeString: 2021-03-14T12:32:09.000+02:00
+    commitTimeString: 2021-03-14T12:32:09.000+02:00
+    changes: []
+  - commitID: 6349b08740f27fade855d265eb9912361ffb27b1
+    mergeA: 
+    mergeB: 
+    authorName: mm528
+    authorEmail: motisano@gmail.com
+    commitEmail: motisano@gmail.com
+    commitName: mm528
+    summary: Last Update
+    description: Mikro comment
+    timeString: 2021-03-14T12:31:45.000+02:00
+    commitTimeString: 2021-03-14T12:31:45.000+02:00
+    changes:
+    - path: Assets\Scripts\SetNot_transparent.cs
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Scripts\SetNot_transparent.cs
+      projectPath: Assets\Scripts\SetNot_transparent.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: d2b196325f06fa97bbb4ab0c899f506710f5f22e
+    mergeA: 
+    mergeB: 
+    authorName: Michalis
+    authorEmail: motisano@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create README.md
+    description: 
+    timeString: 2021-03-14T12:30:57.000+02:00
+    commitTimeString: 2021-03-14T12:30:57.000+02:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 54d9d89985afcf7f61393754511feb515ffd4b75
+    mergeA: 
+    mergeB: 
+    authorName: mm528
+    authorEmail: motisano@gmail.com
+    commitEmail: motisano@gmail.com
+    commitName: mm528
+    summary: Project
+    description: 
+    timeString: 2021-03-14T12:16:55.000+02:00
+    commitTimeString: 2021-03-14T12:16:55.000+02:00
+    changes:
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door.meta
+      projectPath: Assets\Revolving Door.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Materials.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Materials.meta
+      projectPath: Assets\Revolving Door\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Materials\Floor_Mat.mat
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Materials\Floor_Mat.mat
+      projectPath: Assets\Revolving Door\Materials\Floor_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Materials\Floor_Mat.mat.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Materials\Floor_Mat.mat.meta
+      projectPath: Assets\Revolving Door\Materials\Floor_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Materials\RevolvingDoor_Mat.mat
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Materials\RevolvingDoor_Mat.mat
+      projectPath: Assets\Revolving Door\Materials\RevolvingDoor_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Materials\RevolvingDoor_Mat.mat.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Materials\RevolvingDoor_Mat.mat.meta
+      projectPath: Assets\Revolving Door\Materials\RevolvingDoor_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Models.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Models.meta
+      projectPath: Assets\Revolving Door\Models.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Models\Materials.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Models\Materials.meta
+      projectPath: Assets\Revolving Door\Models\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Models\Materials\RevolvingDoor_Mat1.mat
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Models\Materials\RevolvingDoor_Mat1.mat
+      projectPath: Assets\Revolving Door\Models\Materials\RevolvingDoor_Mat1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Models\Materials\RevolvingDoor_Mat1.mat.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Models\Materials\RevolvingDoor_Mat1.mat.meta
+      projectPath: Assets\Revolving Door\Models\Materials\RevolvingDoor_Mat1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Models\RevolvingDoor.fbx
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Models\RevolvingDoor.fbx
+      projectPath: Assets\Revolving Door\Models\RevolvingDoor.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Models\RevolvingDoor.fbx.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Models\RevolvingDoor.fbx.meta
+      projectPath: Assets\Revolving Door\Models\RevolvingDoor.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Prefabs.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Prefabs.meta
+      projectPath: Assets\Revolving Door\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Prefabs\FPS_Controller.prefab
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Prefabs\FPS_Controller.prefab
+      projectPath: Assets\Revolving Door\Prefabs\FPS_Controller.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Prefabs\FPS_Controller.prefab.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Prefabs\FPS_Controller.prefab.meta
+      projectPath: Assets\Revolving Door\Prefabs\FPS_Controller.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Prefabs\RevolvingDoor .prefab
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Prefabs\RevolvingDoor .prefab
+      projectPath: Assets\Revolving Door\Prefabs\RevolvingDoor .prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Prefabs\RevolvingDoor .prefab.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Prefabs\RevolvingDoor .prefab.meta
+      projectPath: Assets\Revolving Door\Prefabs\RevolvingDoor .prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Read me.pdf
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Read me.pdf
+      projectPath: Assets\Revolving Door\Read me.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Read me.pdf.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Read me.pdf.meta
+      projectPath: Assets\Revolving Door\Read me.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Scenes.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Scenes.meta
+      projectPath: Assets\Revolving Door\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Scenes\RevolvingDoor.unity
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Scenes\RevolvingDoor.unity
+      projectPath: Assets\Revolving Door\Scenes\RevolvingDoor.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Scenes\RevolvingDoor.unity.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Scenes\RevolvingDoor.unity.meta
+      projectPath: Assets\Revolving Door\Scenes\RevolvingDoor.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Scripts.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Scripts.meta
+      projectPath: Assets\Revolving Door\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Scripts\DoorRotation.cs
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Scripts\DoorRotation.cs
+      projectPath: Assets\Revolving Door\Scripts\DoorRotation.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Scripts\DoorRotation.cs.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Scripts\DoorRotation.cs.meta
+      projectPath: Assets\Revolving Door\Scripts\DoorRotation.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Scripts\PlayerMovement.cs
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Scripts\PlayerMovement.cs
+      projectPath: Assets\Revolving Door\Scripts\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Scripts\PlayerMovement.cs.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Scripts\PlayerMovement.cs.meta
+      projectPath: Assets\Revolving Door\Scripts\PlayerMovement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Textures.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Textures.meta
+      projectPath: Assets\Revolving Door\Textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Textures\RevolvingDoor.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Textures\RevolvingDoor.meta
+      projectPath: Assets\Revolving Door\Textures\RevolvingDoor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Textures\RevolvingDoor\Materials.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Textures\RevolvingDoor\Materials.meta
+      projectPath: Assets\Revolving Door\Textures\RevolvingDoor\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Textures\RevolvingDoor\Materials\Revolving Door
+        LOD0_LOD0_AO.mat
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Textures\RevolvingDoor\Materials\Revolving
+        Door LOD0_LOD0_AO.mat
+      projectPath: Assets\Revolving Door\Textures\RevolvingDoor\Materials\Revolving
+        Door LOD0_LOD0_AO.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Textures\RevolvingDoor\Materials\Revolving Door
+        LOD0_LOD0_AO.mat.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Textures\RevolvingDoor\Materials\Revolving
+        Door LOD0_LOD0_AO.mat.meta
+      projectPath: Assets\Revolving Door\Textures\RevolvingDoor\Materials\Revolving
+        Door LOD0_LOD0_AO.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door LOD0_LOD0_AO.png
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door
+        LOD0_LOD0_AO.png
+      projectPath: Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door LOD0_LOD0_AO.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door LOD0_LOD0_AO.png.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door
+        LOD0_LOD0_AO.png.meta
+      projectPath: Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door LOD0_LOD0_AO.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door LOD0_LOD0_AlbedoTransparency.png
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door
+        LOD0_LOD0_AlbedoTransparency.png
+      projectPath: Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door LOD0_LOD0_AlbedoTransparency.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door LOD0_LOD0_AlbedoTransparency.png.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door
+        LOD0_LOD0_AlbedoTransparency.png.meta
+      projectPath: Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door LOD0_LOD0_AlbedoTransparency.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door LOD0_LOD0_MetallicSmoothness.png
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door
+        LOD0_LOD0_MetallicSmoothness.png
+      projectPath: Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door LOD0_LOD0_MetallicSmoothness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door LOD0_LOD0_MetallicSmoothness.png.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door
+        LOD0_LOD0_MetallicSmoothness.png.meta
+      projectPath: Assets\Revolving Door\Textures\RevolvingDoor\Revolving Door LOD0_LOD0_MetallicSmoothness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Move forward.cs
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Scripts\Move forward.cs
+      projectPath: Assets\Scripts\Move forward.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Move forward.cs.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Scripts\Move forward.cs.meta
+      projectPath: Assets\Scripts\Move forward.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Move.cs
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Scripts\Move.cs
+      projectPath: Assets\Scripts\Move.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Move.cs.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Scripts\Move.cs.meta
+      projectPath: Assets\Scripts\Move.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SetNot_transparent.cs
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Scripts\SetNot_transparent.cs
+      projectPath: Assets\Scripts\SetNot_transparent.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SetNot_transparent.cs.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\Scripts\SetNot_transparent.cs.meta
+      projectPath: Assets\Scripts\SetNot_transparent.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall.meta
+      projectPath: Assets\TileableBricksWall.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Materials.meta
+      projectPath: Assets\TileableBricksWall\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials\Bricks_01_mat.mat
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Materials\Bricks_01_mat.mat
+      projectPath: Assets\TileableBricksWall\Materials\Bricks_01_mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials\Bricks_01_mat.mat.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Materials\Bricks_01_mat.mat.meta
+      projectPath: Assets\TileableBricksWall\Materials\Bricks_01_mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials\Bricks_01_mat2.mat
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Materials\Bricks_01_mat2.mat
+      projectPath: Assets\TileableBricksWall\Materials\Bricks_01_mat2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials\Bricks_01_mat2.mat.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Materials\Bricks_01_mat2.mat.meta
+      projectPath: Assets\TileableBricksWall\Materials\Bricks_01_mat2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials\Bricks_specular.mat
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Materials\Bricks_specular.mat
+      projectPath: Assets\TileableBricksWall\Materials\Bricks_specular.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Materials\Bricks_specular.mat.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Materials\Bricks_specular.mat.meta
+      projectPath: Assets\TileableBricksWall\Materials\Bricks_specular.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Textures.meta
+      projectPath: Assets\TileableBricksWall\Textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_diffuse.TGA
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Textures\Bricks_diffuse.TGA
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_diffuse.TGA
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_diffuse.TGA.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Textures\Bricks_diffuse.TGA.meta
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_diffuse.TGA.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_gloss.TGA
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Textures\Bricks_gloss.TGA
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_gloss.TGA
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_gloss.TGA.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Textures\Bricks_gloss.TGA.meta
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_gloss.TGA.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_normal.TGA
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Textures\Bricks_normal.TGA
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_normal.TGA
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_normal.TGA.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Textures\Bricks_normal.TGA.meta
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_normal.TGA.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_specular.TGA
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Textures\Bricks_specular.TGA
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_specular.TGA
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Bricks_specular.TGA.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Textures\Bricks_specular.TGA.meta
+      projectPath: Assets\TileableBricksWall\Textures\Bricks_specular.TGA.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Height_map.TGA
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Textures\Height_map.TGA
+      projectPath: Assets\TileableBricksWall\Textures\Height_map.TGA
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileableBricksWall\Textures\Height_map.TGA.meta
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\TileableBricksWall\Textures\Height_map.TGA.meta
+      projectPath: Assets\TileableBricksWall\Textures\Height_map.TGA.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 9b9e33217f2cf37d5753f12214a3075ef1702b58
+    mergeA: 
+    mergeB: 
+    authorName: mm528
+    authorEmail: motisano@gmail.com
+    commitEmail: motisano@gmail.com
+    commitName: mm528
+    summary: Initial commit
+    description: 
+    timeString: 2021-03-14T12:09:44.000+02:00
+    commitTimeString: 2021-03-14T12:09:44.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\motis\OneDrive\Desktop\OtherProject\CoronavirusSimulator-master
+        (1)\Game Covid\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
